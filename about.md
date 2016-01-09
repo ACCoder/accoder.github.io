@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi,My name is Milo Bryant!I'm a app developer!
+Hi,My name is Milo Bryant!
 
 ### More Information
 
